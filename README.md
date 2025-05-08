@@ -16,10 +16,11 @@
 
 I build decentralized systems that scale. As a blockchain engineer and systems architect, I’ve led engineering on dApps, data indexers, Solana tooling, and smart contracts across EVM, Solana, and Polkadot ecosystems.
 
-- 🔨 Built multi-chain staking, analytics, and campaign tools at **Gizmolabs**, **A51 Finance**, and **Mesh Protocol** (via Xord)
-- 🏆 Runner-up at **Polkadot Hackathon**, Grant recipient from **Astar Network**
-- 🔬 Co-creator of [**Shield**](https://github.com/xorddotcom/shield), a CLI tool for ZK circuit developers (60+ ⭐️)
-- 🚀 Pump.fun clone: Led infra + keygen scaling in Rust → 20 → 400 keys/day → $2M launch volume
+- 🏗 Building multi-chain analytics platforms, staking protocols, and Telegram-based dApps.
+- 🧠 Former **CTO** @ Metadot — awarded grant from Astar Network and runner-up at Polkadot Hackathon.
+- 🔬 Co-creator of [**Shield**](https://github.com/xorddotcom/shield): CLI for Circom/ZK circuit developers (60+ stars).
+- 💡 Contributor to products with peak **$3.5M TVL** (A51 Finance) and **$2M launch volume** (Pump.fun clone).
+- 🛠 Leading cloud infra, DevOps, and architecture for web3 startups.
 
 ---
 
@@ -29,17 +30,17 @@ I build decentralized systems that scale. As a blockchain engineer and systems a
 **Blockchain**: Foundry · Hardhat · Anchor · Solana · EVM (Ethereum, Arbitrum, Base, BNB etc) · Polkadot  
 **Backend**: NestJS · Node.js · Express.js · Redis · PostgreSQL · MongoDB  
 **Frontend**: React.js · Next.js · Tailwind · Material UI  
-**DevOps**: Docker · AWS · GCP · CI/CD · Linux Scripting · NGINX  
+**DevOps**: Docker · AWS · GCP · Jenkiins · CI/CD · Linux Scripting · NGINX  
 **Specialties**: dApp Architecture · Smart Contract · Data Indexers · zk-SNARK Tooling · Telegram MiniApps
 
 ---
 
 ### 🔥 Featured Projects
-- 
+
 - 🛠️ [**Shield**](https://github.com/xorddotcom/shield) — CLI for ZK circuit developers | 60+ Stars ⭐️  
 - 📊 **Spock Analytics** — Real-time on/off-chain analytics infrastructure  
 - 🔐 **Metadot Wallet** — Multi-Parachain Polkadot wallet | Astar Grant + Hackathon Winner  
-- 💸 **Pump.fun Clone** — $2M launch, 7K users, 4-char Solana vanity keys (Rust)
+- 💸 **Pump.fun Clone** — $2M+ Volumn and ~12K users on launch
 
 ---
 
